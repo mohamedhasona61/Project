@@ -1,0 +1,55 @@
+/* **** index-home */
+main.home a{
+    font-size: 30px;
+
+}
+main.home p{
+    line-height: 2;
+}
+.navbar-nav{
+    margin: auto;
+}
+img{
+    max-width: 100%;
+}
+main img{
+    border-radius: 10px;
+    height: 250px;
+}
+main .courses{
+    display: flex;
+    align-items: center;
+    padding: 50px;
+    margin-bottom: 100px;
+}
+main h5 {
+    font-weight: bold;
+}
+/* ****  end index-home */
+/* ***** web dev */
+.web-dev a{
+    font-size: 30px;
+}
+.web-dev p{
+    line-height: 2;
+}
+/* **** end web  */
+/* data */
+.data a{
+    font-size: 25px;
+}
+.data p{
+    line-height: 2;
+}
+
+/* end data */
+/* mobile */
+.mobile img{
+    height: 200px;
+}
+.mobile .card-body > a{
+    font-size: 25px;
+}
+.mobile p{
+    line-height: 2;
+}
